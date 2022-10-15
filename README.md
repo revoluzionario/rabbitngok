@@ -49,7 +49,7 @@ Câu nói này được sử dụng rộng rãi nhất trên cả nước, trong
 
 ### 4. Go to the [posts.json](posts.json) file and add the following content:
 
-```json
+```json5
 [
   "your-title.mdx",
   [...] // other posts
