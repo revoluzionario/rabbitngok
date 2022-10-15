@@ -57,7 +57,7 @@ Câu nói này được sử dụng rộng rãi nhất trên cả nước, trong
 - The `mainImage` is the image of the post. It is used in the post list page and the post detail page. You can just use the image uploaded from [here](https://mewcloud.up.railway.app/) or it is placed in the `assets` folder.
   - Example: 
     - From MewCloud: `http://mewcloud.up.railway.app/file/afd5b4ac8314dde3b12e36ed309f4e57/tin-chuan-chua-anh.jpg`
-    - From assets folder: `https://raw.githubusercontent.com/<your-username>/<your-repo>/main/assets/tin-chuan-chua-anh.jpg`
+    - From assets folder: `https://raw.githubusercontent.com/<your-username>/<your-repo>/main/assets/tin-chuan-chua-anh/main-image.jpg`
 
 - The `description` is the description of the post. It is used in the post list page and the post detail page.
 
