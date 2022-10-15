@@ -47,6 +47,15 @@ Câu nói này được sử dụng rộng rãi nhất trên cả nước, trong
 
 ```
 
+### 4. Go to the [posts.json](posts.json) file and add the following content:
+
+```json
+[
+  "your-title.mdx",
+  [...] // other posts
+]
+```
+
 ## Special Notes
 
 - The `createdAt` is the timestamp of the post. It is used to sort the posts by the latest post first.
